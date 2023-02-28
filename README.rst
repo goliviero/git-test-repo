@@ -11,5 +11,5 @@ Usage
 
 This is a test repository to show how to use github command, clone and
 interface.        Please       see        and       follow       `this
-tutorial<https://github.com/goliviero/software_get_started/tree/main/git_tutorial>`_
+tutorial <https://github.com/goliviero/software_get_started/tree/main/git_tutorial>`_
 if you want to learn how to use git.
